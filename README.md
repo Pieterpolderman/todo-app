@@ -13,7 +13,7 @@ This is a simple To-Do List app built with **Next.js** and **React**, styled usi
 - **Tailwind CSS**
 
 ## 🌍 Live Demo
-Check out the live app here: [To-Do List App](https://your-vercel-app-url.vercel.app)
+Check out the live app here: [To-Do List App](https://todo-app-one-zeta-90.vercel.app)
 
 ## 📦 Installation & Setup
 1. Clone the repository:
